@@ -1,4 +1,4 @@
-# Building a Knowledge Graph using BERT based NER and Neo4j, then Predict Unknown Linkes
+# Building a Knowledge Graph using BERT based NER and Neo4j, then Predict Unknown Links
 
 Building a knowledge graph could be very tidous and time consuming if the entities and relations need to be manually identified and input. In recent years, with the development of natural language processing, especially after the invention of BERT (Bidirectional Embedding Representations from Transformers) by GOOGLE in 2018, which drammatically improved the accuracy of named entity recoginition (NER), and enabled automatically extract NER and relations from documents. This make it possible to build a knowledge graph rapidly and update it promptly.
 
