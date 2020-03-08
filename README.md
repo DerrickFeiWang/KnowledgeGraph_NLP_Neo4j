@@ -17,6 +17,7 @@ We we record the two entity names, ids, categories, as well as the sentence wher
 
 ### Step 2. Build the knowledge graph in Neo4j
 With the entity relation dataset we obtained from the previous step, we can quickly build a knowledge graph using the following Cypher commands.
+![image](https://user-images.githubusercontent.com/44976640/76154365-b66f4200-60a0-11ea-97ea-2ac405733307.png)
 
 
 
