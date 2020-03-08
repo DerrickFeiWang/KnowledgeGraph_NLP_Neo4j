@@ -30,7 +30,9 @@ With knowledge graph in place, we can then predict unknown relations between ent
 The calculation of Adamic Adar scores using cypher query is shown as below.
 ![image](https://user-images.githubusercontent.com/44976640/76154543-a7d65a00-60a3-11ea-9e3a-ea0e43f56a47.png)
 
-
+We have used a set of literatures of interest to build a knowledge graph, and predict drug-disease link that are not recorded in this set of lietratures. 
+![image](https://user-images.githubusercontent.com/44976640/76154578-495dab80-60a4-11ea-9940-3da32d753dbf.png)
+We found that the drug-disease link with the highest Adamic Adar score actually showed up as title in a recently published paper. This is an successful example that the knowledge graph we built can be used for drug repurposing, or finding new gene-disease relation, etc.
 
 
 
