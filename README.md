@@ -15,7 +15,7 @@ If two entities exist in the same sentence, we know they are somehow connected, 
 
 ![image](https://user-images.githubusercontent.com/44976640/76154222-6abb9900-609e-11ea-82fc-a5ce98209b3e.png)
 
-We we record the two entity names, ids, categories, as well as the sentence where the two entities were mentioned, and the Pubmed ID of the literature where the sentence exists.
+We record the two entity names, ids, categories, as well as the sentence where the two entities were mentioned, and the Pubmed ID of the literature where the sentence exists.
 
 ### Step 2. Build the knowledge graph in Neo4j
 With the entity relation dataset we obtained from the previous step, we can quickly build a knowledge graph using the following Cypher commands.
