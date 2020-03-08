@@ -28,7 +28,7 @@ With knowledge graph in place, we can then predict unknown relations between ent
 [link Prediction Algorithms](http://be.amazd.com/link-prediction/)
 
 The calculation of Adamic Adar scores using cypher query is shown as below.
-
+![image](https://user-images.githubusercontent.com/44976640/76154543-a7d65a00-60a3-11ea-9e3a-ea0e43f56a47.png)
 
 
 
