@@ -30,7 +30,8 @@ A small proportion of the knowledge graph we get looks like this. The red nodes 
 With knowledge graph in place, we can then predict unknown relations between entities. There are many algorithms to predict unknown connections. We will use the Adamic Adar method as an example. The basic idea behind the algorithm is the probabilities of two pairs of entities (A and C, A and E) have direct connection depending on their common neighbour (B, D).  The more friends their common neighbour has, the lower probability that the common neighbour will introduce them to know each other.
 
 ![image](https://user-images.githubusercontent.com/44976640/76154501-149d2480-60a3-11ea-84d3-08a68236cc3e.png)
-[link Prediction Algorithms](http://be.amazd.com/link-prediction/)
+
+The above picture is adopt from [link Prediction Algorithms](http://be.amazd.com/link-prediction/).
 
 The calculation of Adamic Adar scores using cypher query is shown as below.
 
