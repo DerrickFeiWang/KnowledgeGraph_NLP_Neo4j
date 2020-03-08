@@ -23,6 +23,7 @@ With the entity relation dataset we obtained from the previous step, we can quic
 ![image](https://user-images.githubusercontent.com/44976640/76154365-b66f4200-60a0-11ea-97ea-2ac405733307.png)
 
 A small proportion of the knowledge graph we get looks like this. The red nodes are diseases, the green nodes are genes, and the blue nodes are drugs. 
+
 ![image](https://user-images.githubusercontent.com/44976640/76154404-6f358100-60a1-11ea-9f2d-00fdc78f28f1.png)
 
 ### Step 3. Predict Unknown Relations between Entities
